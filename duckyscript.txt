@@ -1,0 +1,11 @@
+DELAY 1000
+WINDOWS
+DELAY 500
+GUI r
+DELAY 100
+STRING c:\windows\notepad.exe
+ENTER
+DELAY 1000
+STRING Hello World
+ENTER
+STRING Say hello to the budget Rubber Ducky!!!
